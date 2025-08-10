@@ -7,8 +7,8 @@
 
 [![Unity](https://img.shields.io/badge/Unity-6.0-100000?style=for-the-badge&logo=unity&logoColor=white)](unityhub://6000.0.50f1/f1ef1dca8bff)
 [![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)](https://www.jetbrains.com/rider/)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview)
+[![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)](https://docs.unity3d.com/560/Documentation/Manual/webgl-gettingstarted.html)
 
 ## About
 
